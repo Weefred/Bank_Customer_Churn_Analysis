@@ -4,13 +4,15 @@
 
 **[Dataset Used](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)**
 
-**Power BI Dashboard: Click to view**
+**Power BI Dashboard: [Click to view](https://github.com/Weefred/Bank_Customer_Churn_Analysis/blob/main/Bank_customer_churn_dashboard.png)**
 
 **Power BI Dashboard: [Click to interact](https://app.powerbi.com/view?r=eyJrIjoiZTgwNWZlMWEtMGVkMC00MmE0LWEyZTctMGE0NzBkMWRlOGMzIiwidCI6IjI3MGRhZWVlLTdkMWYtNDQwZC1hMDYxLTQzOWMzMGFhYjUwMSJ9)**
 
 ## About this project
 
 This project focuses on analyzing bank customer churn to identify key factors contributing to customer attrition. By examining various customer attributes, the analysis aims to uncover patterns and trends that lead to churn. The insights derived from this project will help the bank develop targeted strategies to enhance customer engagement, improve satisfaction, and ultimately reduce churn rates. 
+
+![imange](https://github.com/Weefred/Bank_Customer_Churn_Analysis/blob/main/Bank_customer_churn_dashboard.png)
 
 ## Business Problem
 
